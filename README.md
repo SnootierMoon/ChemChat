@@ -3,7 +3,7 @@ Akshay's Fall 2019 project.
 
 (incomplete) C telnet/netcat server that was supposed to help me pass my Honors Chemistry 10 class.
 
-Based off of another (incomplete) similar project I made in the summer of 2019, that would, if completed, emulate the card game "Monopoly Deal".
+Based off of another (incomplete) similar project I made in the summer of 2019, that would, emulate the card game "Monopoly Deal".
 
 ## Getting Started
 
@@ -19,7 +19,7 @@ make
 
 #### Running the server
 
-Unlike the Monopoly Deal server, this just creates an executable called 'out'. The port is 42069.
+Unlike the Monopoly Deal server, this creates an executable called 'out', which must be run to start the server. The server port is 42069.
 
 #### Connecting a client and Other Stuff
 
