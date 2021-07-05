@@ -1,5 +1,5 @@
 # Chem Chat
-Akshay's Fall 2019 project.
+My Fall 2019 project.
 
 (incomplete) C telnet/netcat server that was supposed to help me pass my Honors Chemistry 10 class.
 
