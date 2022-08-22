@@ -29,6 +29,8 @@ Read the instructions from the old [Monopoly Deal README file](https://github.co
 
 My goal was to make this easy to use for Chem grinding, but, I kind of just... didn't. Oops!
 
+Also note that a lot of the advertised functionality unfortunately does not exist
+
 ![scrot](res/scrot.png?raw=true "Screenshot")
 
 ## TODO
