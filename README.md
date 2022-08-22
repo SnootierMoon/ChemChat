@@ -25,6 +25,13 @@ Unlike the Monopoly Deal server, this creates an executable called 'out' which s
 
 Read the instructions from the old [Monopoly Deal README file](https://github.com/SnootierMoon/MonopolyDeal#getting-started).
 
+#### Screenshot of functionality
+
+My goal was to make this easy to use for Chem grinding, but, I kind of just... didn't. Oops!
+
+![scrot](res/scrot.png?raw=true "Screenshot")
+
 ## TODO
 
 Finish it.
+
