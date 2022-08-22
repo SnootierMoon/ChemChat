@@ -34,7 +34,7 @@ int command_invalid();
 
 extern char nullchar;
 
-const command command_root;
-const command command_calc;
-const command command_chem;
+extern const command command_root;
+extern const command command_calc;
+extern const command command_chem;
 
